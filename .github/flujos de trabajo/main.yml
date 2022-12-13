@@ -1,0 +1,4 @@
+- nombre: React Native Android Build APK
+  # Puede fijar la confirmación exacta o la versión.
+  # usos: realabbas/Github-Actions-React-Native@047b6256928e9f54ec66393c95817b702c4a0ee2
+  usos: realabbas/Github-Actions-React-Native@v1.1.2
